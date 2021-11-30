@@ -4,9 +4,11 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import androidx.recyclerview.widget.LinearLayoutManager
+import com.mixelectronico.shoppinglist.ShoppingViewModel
 import com.mixelectronico.shoppinglist.data.database.entities.ShoppingItem
 import com.mixelectronico.shoppinglist.databinding.ActivityShoppingBinding
+import com.mixelectronico.shoppinglist.ui.dialog.AddDialogListener
+import com.mixelectronico.shoppinglist.ui.dialog.DialogShoppingItemAdd
 
 
 class ShoppingActivity : AppCompatActivity() {

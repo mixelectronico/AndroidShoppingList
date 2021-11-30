@@ -3,6 +3,7 @@ package com.mixelectronico.shoppinglist.ui
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.mixelectronico.shoppinglist.ShoppingViewModel
 import com.mixelectronico.shoppinglist.data.database.entities.ShoppingItem
 import com.mixelectronico.shoppinglist.databinding.ShoppingItemBinding
 

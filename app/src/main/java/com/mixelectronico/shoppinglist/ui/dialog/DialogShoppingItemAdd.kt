@@ -1,4 +1,4 @@
-package com.mixelectronico.shoppinglist.ui
+package com.mixelectronico.shoppinglist.ui.dialog
 
 import android.content.Context
 import android.os.Bundle

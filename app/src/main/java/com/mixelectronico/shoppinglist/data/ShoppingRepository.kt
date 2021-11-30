@@ -1,4 +1,4 @@
-package com.mixelectronico.shoppinglist.data.repositories
+package com.mixelectronico.shoppinglist.data
 
 import android.app.Application
 import android.content.Context

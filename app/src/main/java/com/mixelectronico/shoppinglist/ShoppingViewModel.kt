@@ -1,10 +1,10 @@
-package com.mixelectronico.shoppinglist.ui
+package com.mixelectronico.shoppinglist
 
 import android.app.Application
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import com.mixelectronico.shoppinglist.data.database.entities.ShoppingItem
-import com.mixelectronico.shoppinglist.data.repositories.ShoppingRepository
+import com.mixelectronico.shoppinglist.data.ShoppingRepository
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

@@ -1,4 +1,4 @@
-package com.mixelectronico.shoppinglist.ui
+package com.mixelectronico.shoppinglist.ui.dialog
 
 import com.mixelectronico.shoppinglist.data.database.entities.ShoppingItem
 
